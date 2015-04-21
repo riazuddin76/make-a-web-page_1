@@ -1,0 +1,57 @@
+h1 {
+    text-align: left;
+    color: blue;
+    font: italic;
+    background-color: #82a43a;
+    margin: 10px;
+    border-image-source: none;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+}
+body {
+    font-family:  Arial;
+    color: blue;
+    font: italic;
+    background-color: #82a43a;
+    margin: 10px;
+    border-image-source: none;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+    border-radius: 10px;
+    border: 3px solid blue;
+    background-color: white;
+}
+.lesson_1_headings {
+  color: blue;
+  font: Arial;
+  font-size: 20px;
+}
+.sub_headings {
+  color: blue;
+  font: Arial;
+  font-size: 20px;
+}
+h2 {
+    text-align: left;
+    color: blue;
+    font: italic;
+    background-color: #82a43a;
+    margin: 10px;
+    border-image-source: none;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+}
+.lesson_2_headings {
+  color: blue;
+  font: Arial;
+  font-size: 20px;
+}
+.bold {
+  font-weight: bold;
+}
